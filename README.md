@@ -8,7 +8,7 @@ npm install
 
 ## Database Configuration
 
-Set environment variables or edit the database ocnfiguration in db.js. 
+Set environment variables or edit the database configuration in db.js. 
 
 ```bash
 /config/db.js
